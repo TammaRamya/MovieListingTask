@@ -1,0 +1,47 @@
+[
+    {
+        "id": 100,
+        "title": "Kingsglaive",
+        "subtitle": "Final Fantasy XV",
+        "description": "King Regis, who oversees the land of Lucis, commands his army of soldiers to protect the kingdom from the Niflheim empire's plans to steal the sacred crystal.",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/d7232c041fcc9b0d8ad60ecd8753a9880d3613d16c4e3346764d66cb3de8e990._RI_V_TTW_.jpg",
+        "rating": 4.5,
+        "genre":"horror"
+    },
+    {
+        "id": 200,
+        "title": "Final Fantasy",
+        "subtitle": "Spirits Within",
+        "description": "A scientist makes a last stand on Earth with the help of a ragtag team of soldiers against an invasion of alien phantoms.",
+        "imageUrl": "https://image.api.playstation.com/vulcan/img/cfn/113075PxnarzRek4cRpjrRWSpLfrcBd23B5e_Yj2azms6nWYKmySv4h3a22G5_R1CM4BQUmSRD6oOArDROKv041NUkgun78-.png",
+        "rating": 4.5,
+        "genre":"comidy"
+    },
+    {
+        "id": 300,
+        "title": "Ghost In The Shell",
+        "subtitle": "Ghost In The Shell",
+        "description": "A hacker known as the Puppet Master is hunted by a female cyborg cop and her partner. This film is a revised version of Ghost in the Shell (1995).",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMGRmNDRmMDAtMGFmOS00YjU0LTkyNjItM2RiNDJlMGEwYWNlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+        "rating": 5,
+        "genre":"horror"
+    },
+    {
+        "id": 400,
+        "title": "Appleseed Alpha",
+        "subtitle": "Appleseed Alpha",
+        "description": "A young female soldier Deunan and her cyborg partner Briareos survive through the post World War 3 apocalyptic New York in search of human's future hope, the legendary city of Olympus.",
+        "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-g1vdZ5IqsxgJRWSi_j3ZlM5Wuy2EemjCuEAtTN45TsSexdnj",
+        "rating": 3.8,
+        "genre":"fantasy"
+    },
+    {
+        "id": 500,
+        "title": "Resident Evil",
+        "subtitle": "Vendetta",
+        "description": "Chris Redfield enlists the help of Leon S. Kennedy and Rebecca Chambers to stop a death merchant, with a vengeance, from spreading a deadly virus in New York.",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_QL75_UY281_CR2,0,190,281_.jpg",
+        "rating": 4.2,
+        "genre":"horror"
+    }
+]
